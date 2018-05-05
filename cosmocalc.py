@@ -7,3 +7,4 @@ print cosmo1
 cosmo2 = cosmo(H0=72, Om0=0.28)
 print cosmo2
 
+print('Editing on tam_test to check merge.')
